@@ -1,12 +1,15 @@
 {
+  "id": "/",
   "name": "Simon Game",
   "short_name": "SimonGame",
   "start_url": ".",
+  "scope": "/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#000000",
   "theme_color": "#1a1a1a",
   "description": "A modern version of the classic Simon memory game with physical ESP32 integration and web companion.",
+  "lang": "fr",
   "icons": [
     {
       "src": "icons/icon-192.png",
