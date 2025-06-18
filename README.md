@@ -54,21 +54,19 @@ This project is a hybrid physical/digital experience:
 ```
 ## 🚀 How to Use
 
-```🔌 Physical Game
+🔌 Physical Game
 	1.	Flash simon.ino to your ESP32 using Arduino IDE
 	2.	Connect:
 	•	4x LEDs to GPIOs
 	•	4x Buttons
 	•	1x Buzzer for feedback
 	3.	Power the ESP32 and play directly!
-```
 
-```🌍 Web Interface
+🌍 Web Interface
 	1.	Open web-interface/index.html in a browser
 	2.	Make sure your computer/phone is on the same network as the ESP32
 	3.	Configure the ESP32’s IP in script.js
 	4.	Use the UI to control and monitor the game remotely
-```
 
 ## 📜 License
 
