@@ -1,4 +1,5 @@
 # 🎮 Simon Game – ESP32 + Web Companion
+Published version available [here](https://theofief.github.io/simongame)
 
 A modern remake of the classic **Simon memory game**, combining:
 
