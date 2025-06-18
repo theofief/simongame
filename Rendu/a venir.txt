@@ -1,0 +1,16 @@
+Potentiels ajouts à venir:
+ - Bonus
+ - Sons aléatoires
+ - Possibilité d'avoir les leds qui s'allume et qui s'éteigne de manière traditionnelle
+
+
+Pour aller plus loins
+Développer un site web et une application liés au Simon par son numéro de série afin de pouvoir jouer en ligne, proposer un catalog de "mods", des thèmes etc proposer par la communauté. Et surtout accentuer ce côté partage entre les joueurs et pourquoi pas le côté compétition.
+
+De plus cela permettrait un nouveau business, celui des jeux mobiles, avec des pubs dans l'app etc.
+
+Première version simple disponible juste ici:
+https://theofief.github.io/simongame/
+
+Leș différents fichiers sont disponibles ici:
+https://github.com/theofief/simongame

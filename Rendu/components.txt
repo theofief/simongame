@@ -1,0 +1,37 @@
+ESP32 - Quantité: 1 - Prix estimé: 8 €
+  Lien datasheet: https://www.espressif.com/en/products/hardware/esp32/overview
+  Raison du choix: L'ESP32 offre de meilleures performances, une connectivité Wi-Fi/Bluetooth, et est idéal pour les projets IoT.
+
+Adaptateur secteur USB-C - Quantité: 1 - Prix estimé: 2 €
+  Lien datasheet: https://www.amazon.com/dp/B08MSL1X9K
+  Raison du choix: Adaptateur de base qui fournit une tension stable et fiable à l'Arduino.
+
+Pile avec connecteur - Quantité: 1 - Prix estimé: 1 €
+  Lien datasheet: https://www.digikey.com/en/products/detail/keystone-electronics/1502/
+  Raison du choix: Simple solution pour alimenter le projet sur batterie.
+
+LED RGB (4 LEDs) - Quantité: 1 - Prix estimé: 2 €
+  Lien datasheet: https://www.ledsupply.com/datasheets/WS2812B.pdf
+  Raison du choix: LED RGB utilisée pour les couleurs et effets visuels du jeu Simon, contrôlable individuellement.
+
+Résistances (pack) - Quantité: 1 - Prix estimé: 3 €
+  Lien datasheet: https://www.vishay.com/docs/29023/rc-05.pdf
+  Raison du choix: Les résistances sont nécessaires pour protéger les composants et ajuster les courants.
+
+Boutons-poussoirs (4) - Quantité: 1 - Prix estimé: 3 €
+  Lien datasheet: https://www.digikey.com/en/products/detail/c-k-components/PB1452/54357
+  Raison du choix: Les boutons poussoirs permettent l'interaction avec le jeu Simon en offrant un contrôle simple.
+
+Buzzer piezo (ou autre "aux parleurs") - Quantité: 1 - Prix estimé: 1 €
+  Lien datasheet: https://www.mouser.com/datasheet/2/268/PPT04B-876167.pdf
+  Raison du choix: Permet de jouer des sons pour les effets du jeu, simple et économique.
+
+Plaque d'expérimentation (breadboard) - Quantité: 1 - Prix estimé: 4 €
+  Lien datasheet: https://www.sparkfun.com/products/12000
+  Raison du choix: Idéale pour tester et connecter tous les composants de manière temporaire et sans soudure.
+
+Filament PLA pour imprimante 3D - Quantité: 1 - Prix estimé: 15 €
+  Raison du choix: Le PLA est facile à imprimer et idéal pour la fabrication de la boîte du projet.
+
+Écran  - Quantité: 1 - Prix estimé: 8 €
+  Raison du choix: Affiche les informations et les scores du jeu de manière claire et intuitive.
